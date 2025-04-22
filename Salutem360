@@ -1,0 +1,14 @@
+Proyecto  farmacía Salutem30. 
+Leguaje de programacón python framework Django.
+Base dedatos SQLite. 
+Funcionalidades de animacion Javascript 
+
+Este proyecto es algo básico de la funcionalidad de la página de una farmacia. en la página principal podemos encontrar el menú, en el menú podemos encontrar inicio, busqueda, admin, iniciar sesión, cerrar sesión, carrito.
+En inicio es el boton con el nombre de la pagina y nos dirige a index.html.
+Busqueda nos va ayudar a encontrar los productos mas fácil.
+Admin, debemos ingresar con usuario y contraseña , ahí podemos crear las categorías,  añadir productos, y visualizar facturas.
+Para ver el carrito debemos de registrarnos e inicar sesión.
+En el index.html tenemos las categorias , tenemos las ofertas y todos los productos.
+Al darle clik en productos nos manda a detalle.html en la cual nos da mas de talle del producto y a que categoría pertenece.
+En en carrito podemos ver los productos agregados , podemos hacer eliminar productos o finalizar la compra y nos va a dar una seudofactura.
+
